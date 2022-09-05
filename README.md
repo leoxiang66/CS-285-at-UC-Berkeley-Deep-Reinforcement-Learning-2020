@@ -6,6 +6,12 @@ Lecture notes for "CS 285 at UC Berkeley Deep Reinforcement Learning 2021"
 - practice source: [Simonini, T., & Sanseviero, O.. (2022). The Hugging Face Deep Reinforcement Learning Class.](https://github.com/huggingface/deep-rl-class)
 
 
+# Implemented RL Algorithms
+- Reinforce
+
+## Roadmap
+- [ ] ...
+
 # Usage
 1. install
 ```
