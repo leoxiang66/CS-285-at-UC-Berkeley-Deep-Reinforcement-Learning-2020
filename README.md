@@ -17,7 +17,7 @@ Lecture notes for "CS 285 at UC Berkeley Deep Reinforcement Learning 2021"
 ```
 pip install git+https://github.com/leoxiang66/CS-285-at-UC-Berkeley-Deep-Reinforcement-Learning-2021.git
 ```
-2. define environment and policy network
+2. define environment (and policy network)
 3. import 
 ```python
 from RLalgos import reinforce
