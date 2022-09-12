@@ -24,4 +24,4 @@ from RLalgos import reinforce
 ```
 4. training and evaluation
 
-[Colab example](https://colab.research.google.com/drive/1BR1YJGXkJHROflY9WTttOX4ZtzPWto9F?usp=sharing)
+[Colab example](https://colab.research.google.com/github/leoxiang66/CS-285-at-UC-Berkeley-Deep-Reinforcement-Learning-2021/blob/main/examples/A2C_example.ipynb)
