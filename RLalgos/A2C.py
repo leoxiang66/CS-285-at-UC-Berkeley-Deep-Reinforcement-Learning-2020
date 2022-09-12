@@ -198,30 +198,30 @@ class A2CAgent:
 
         return reward_episode
 
-#@title Config A2C {display-mode: "form", run: "auto"}
-from pprint import pprint
-env_id = 'CartPole-v1'  #@param ["CartPole-v1", "Acrobot-v1", "MountainCar-v0"]
-value_learning_rate = 0.001  #@param {type: "number"}
-actor_learning_rate = 0.001  #@param {type: "number"}
-gamma = 1  #@param {type: "number"}
-entropy = 1  #@param {type: "number"}
-seed = 1  #@param {type: "integer"}
-#@markdown ---
+# #@title Config A2C {display-mode: "form", run: "auto"}
+# from pprint import pprint
+# env_id = 'CartPole-v1'  #@param ["CartPole-v1", "Acrobot-v1", "MountainCar-v0"]
+# value_learning_rate = 0.001  #@param {type: "number"}
+# actor_learning_rate = 0.001  #@param {type: "number"}
+# gamma = 1  #@param {type: "number"}
+# entropy = 1  #@param {type: "number"}
+# seed = 1  #@param {type: "integer"}
+# #@markdown ---
 
-config_a2c = {
-    'env_id': env_id,
-    'gamma': gamma,
-    'seed': seed,
-    'value_network': {'learning_rate': value_learning_rate},
-    'actor_network': {'learning_rate': actor_learning_rate},
-    'entropy': entropy
-}
+# config_a2c = {
+#     'env_id': env_id,
+#     'gamma': gamma,
+#     'seed': seed,
+#     'value_network': {'learning_rate': value_learning_rate},
+#     'actor_network': {'learning_rate': actor_learning_rate},
+#     'entropy': entropy
+# }
 
-print("Current config_a2c is:")
-pprint(config_a2c)
+# print("Current config_a2c is:")
+# pprint(config_a2c)
 
 
-agent = A2CAgent(config_a2c)
-rewards = agent.training_batch(1000, 256)
+# agent = A2CAgent(config_a2c)
+# rewards = agent.training_batch(1000, 256)
 
-agent.evaluate()
+# agent.evaluate()
