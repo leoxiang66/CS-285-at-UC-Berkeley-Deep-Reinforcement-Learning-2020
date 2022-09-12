@@ -27,3 +27,4 @@ from RLalgos import reinforce
 ## Tutorials
 1. [Reinforce](https://colab.research.google.com/github/leoxiang66/CS-285-at-UC-Berkeley-Deep-Reinforcement-Learning-2021/blob/main/examples/reinforce_example.ipynb)
 2. [A2C](https://colab.research.google.com/github/leoxiang66/CS-285-at-UC-Berkeley-Deep-Reinforcement-Learning-2021/blob/main/examples/A2C_example.ipynb)
+3. [DQN](https://colab.research.google.com/drive/1ZfQEhtgoQ-MbmEvS8aGhmbvc5QS8hZs4?usp=sharing)
