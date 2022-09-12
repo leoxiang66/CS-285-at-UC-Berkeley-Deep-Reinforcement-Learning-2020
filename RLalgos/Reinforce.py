@@ -47,7 +47,7 @@ class Policy(nn.Module):
 
 
 ########################### Reinforce ###########################
-def reinforce(policy, optimizer, n_training_episodes, max_t, gamma, print_every):
+def reinforce(policy, optimizer, n_training_episodes, max_t, gamma, print_every, env):
     # Help us to calculate the score during the training
     scores_deque = deque(maxlen=100)
     scores = []
@@ -139,7 +139,7 @@ if __name__ == '__main__':
                        cartpole_hyperparameters["n_training_episodes"],
                        cartpole_hyperparameters["max_t"],
                        cartpole_hyperparameters["gamma"],
-                       100)
+                       100, env)
 
 
     #################################################################
