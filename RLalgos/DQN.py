@@ -1,5 +1,4 @@
-import gym, random
-from datetime import timedelta
+import random
 import numpy as np
 import os
 import torch
@@ -7,6 +6,7 @@ import torch.optim as optim
 import torch.nn as nn
 import torch.nn.functional as F
 import csv
+
 
 
 class DQN(nn.Module):
