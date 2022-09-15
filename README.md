@@ -27,7 +27,7 @@ from RLalgos import reinforce
 4. training and evaluation
 
 ## 3.1 Tutorials
-0. [intro to gym]()
+0. [Intro to gym](https://github.com/leoxiang66/CS-285-at-UC-Berkeley-Deep-Reinforcement-Learning-2021/blob/main/examples/play_cart_pole_game.py)
 1. [Reinforce](https://colab.research.google.com/github/leoxiang66/CS-285-at-UC-Berkeley-Deep-Reinforcement-Learning-2021/blob/main/examples/reinforce_example.ipynb)
 2. [A2C](https://colab.research.google.com/github/leoxiang66/CS-285-at-UC-Berkeley-Deep-Reinforcement-Learning-2021/blob/main/examples/A2C_example.ipynb)
 3. [DQN](https://colab.research.google.com/drive/1ZfQEhtgoQ-MbmEvS8aGhmbvc5QS8hZs4?usp=sharing)
