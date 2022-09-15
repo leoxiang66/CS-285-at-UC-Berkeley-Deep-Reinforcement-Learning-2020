@@ -2,7 +2,7 @@
 
 Lecture notes for "CS 285 at UC Berkeley Deep Reinforcement Learning 2021" and ["DRL from Shusen Wang"](https://github.com/wangshusen/DRL)
 
-- link of lecture notes: [1](https://easydoc.net/doc/58895889/Rgs30sku/4HDBZBCk) | [2](https://easydoc.net/doc/51157811/QPvkNb8f/bSQpcGWZ)
+- link of lecture notes: [1](https://easydoc.net/doc/58895889/Rgs30sku/4HDBZBCk) | [2](https://easydoc.net/doc/51157811/QPvkNb8f/B8mEys3t)
 - practice source: [Simonini, T., & Sanseviero, O.. (2022). The Hugging Face Deep Reinforcement Learning Class.](https://github.com/huggingface/deep-rl-class)
 
 
