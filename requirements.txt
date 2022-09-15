@@ -1,3 +1,5 @@
 gym==0.25.2
 numpy==1.23.2
+pygame==2.1.2
+setuptools==56.0.0
 torch==1.12.1
